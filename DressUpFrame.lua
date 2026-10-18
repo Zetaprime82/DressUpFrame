@@ -3,7 +3,7 @@
 -- Type a value in the box and press Enter to apply it.
 -- Use /dressupframe or /duf to open/close the menu.
 
-local DEFAULT_SCALE = 1.0
+local DEFAULT_SCALE = 1.3
 local MIN_SCALE = 0
 local MAX_SCALE = 10
 local STEP = 0.1
