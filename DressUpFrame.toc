@@ -1,7 +1,7 @@
 ## Interface: 120100, 120105, 16001
-## Title: DressUpFrame 1.2 by |cFFFF8080 Zetaprime82|r
+## Title: DressUpFrame 1.3 by |cFFFF8080 Zetaprime82|r
 ## Title: DressUpFrame |cFFFF8080 Retail|r
-## Version: 1.2 (Retail, Forever)
+## Version: 1.3 (Retail, Forever)
 ## Notes: Displays a biger DressUpFrame
 ## Author: Zetaprime82
 ## IconTexture: Interface\AddOns\DressUpFrame\icon
