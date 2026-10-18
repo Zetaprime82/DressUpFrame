@@ -13,6 +13,6 @@ Features :
 
 Usage :
 --------------------
-- Click the minimap icon, or type /duf or /dressupframe, to open the scale menu.
-- Type /duf minimap to show or hide the minimap button.
+- Click the minimap icon, or type `/duf` or `/dressupframe`, to open the scale menu.
+- Type `/duf minimap` to show or hide the minimap button.
 
