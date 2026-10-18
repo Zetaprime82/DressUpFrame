@@ -1,6 +1,6 @@
 # DressUpFrame
 
-Makes the Dressing Room window bigger. By default it’s scaled up to 1.7x, so your gear previews are easier to see, and you can change that size whenever you like.
+Makes the Dressing Room window bigger. By default it’s scaled up to 1.0x, so your gear previews are easier to see, and you can change that size whenever you like.
 
 Features :
 -----------------
