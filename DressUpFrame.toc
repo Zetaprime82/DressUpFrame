@@ -1,0 +1,12 @@
+## Interface: 120100, 120105, 16001
+## Title: DressUpFrame 1.2 by |cFFFF8080 Zetaprime82|r
+## Title: DressUpFrame |cFFFF8080 Retail|r
+## Version: 1.2 (Retail, Forever)
+## Notes: Displays a biger DressUpFrame
+## Author: Zetaprime82
+## IconTexture: Interface\AddOns\DressUpFrame\icon
+## SavedVariables: DressUpFrameDB
+## Category: User Interface
+## Category-enUS: User Interface
+
+DressUpFrame.lua
